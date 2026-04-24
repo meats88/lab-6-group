@@ -2,5 +2,5 @@
 using namespace std;
 
 void printResults(int totalCalories) {
-    cout << "Total Calories: " << totalCalories << endl;
+    cout << "Total calories consumed this entry: " << totalCalories << endl;
 }
